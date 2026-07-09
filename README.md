@@ -1,7 +1,7 @@
 
-  # Telemedicine App (Copy)
+  # Telemedicine App
 
-  This is a code bundle for Telemedicine App (Copy). The original project is available at https://www.figma.com/design/EVB4NgatImYEHPyHGMOsLp/Telemedicine-App--Copy-.
+  This is a code bundle for Telemedicine App. The original project is available at https://www.figma.com/design/EVB4NgatImYEHPyHGMOsLp/Telemedicine-App.
 
   ## Running the code
 
